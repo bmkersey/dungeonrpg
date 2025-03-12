@@ -2,14 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://0re2sh0a0ncs"
+uid="uid://cowbdfwnltso2"
 path.s3tc="res://.godot/imported/floor_tile_small_weeds_B_dungeon_texture.png-2941b5bb9457f15ab69821e308bc14c3.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
-}
-generator_parameters={
-"md5": "9a714bc33f4314ea4520009f20b048a8"
 }
 
 [deps]
